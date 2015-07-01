@@ -1,7 +1,7 @@
 bglib
 =====
 
-BGLib implementations for Bluegiga BLE112 Bluetooth Smart module.
+BGLib implementations for Bluegiga BLE121 Bluetooth Smart module independent of the SoftwareSerial library.
 
 License info
 ============
